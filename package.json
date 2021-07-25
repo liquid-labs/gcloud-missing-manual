@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Liquid-Labs/gcloud-missing-manual/issues"
   },
-  "homepage": "https://github.com/Liquid-Labs/gcloud-missing-manual#readme"
+  "homepage": "https://github.com/Liquid-Labs/gcloud-missing-manual#readme",
+  "liq": {
+    "orgBase": "git@github.com:Liquid-Labs/Liquid-Labs.git"
+  }
 }
